@@ -1,4 +1,4 @@
-# Plate_IQ_Assignment_Website
+# Plate_IQ_Assignment_Webpage
 # Description:
 
 Company(FullThrottle Labs)_Assignment.
