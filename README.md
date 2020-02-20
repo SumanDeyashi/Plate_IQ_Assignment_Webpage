@@ -12,4 +12,3 @@ Technology Used: HTML/HTML5, CSS/CSS3.
 Duration: September, 2018.
 
 URL: https://sumandeyashi.github.io/Plate_IQ_Webpage/
-ss
